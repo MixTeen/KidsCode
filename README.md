@@ -1,4 +1,4 @@
-Ce repository contient les réalisations des enfants participant aux ateliers de MixTeen.
+Ce repository contient les réalisations des enfants participants aux ateliers de MixTeen.
 
 [MixTeen](http://www.mix-it.fr/mixit14/mixteen)
 
