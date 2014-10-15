@@ -1,8 +1,9 @@
 Ce repository contient les réalisations des enfants participants aux ateliers de MixTeen.
 
-[MixTeen](http://www.mix-it.fr/mixit14/mixteen)
+[MixTeen](http://mixteen.github.io/)
 
 [Email MixTeen](mailto://mixteen.lyon@gmail.com)
 
 
 * Atelier du 30 avril 2014 lors de MixIT : [répertoire 20140430_MixIT](./20140430_MixIT)
+* Atelier du 15 octobre 2014 lors de Code Week à la MMI : [répertoire 20141015_CodeWeek_MMI](./20141015_CodeWeek_MMI)
